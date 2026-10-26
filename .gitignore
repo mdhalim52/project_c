@@ -1,0 +1,14 @@
+# Ignore all files initially
+*
+
+# Allow directories to preserve the folder structure
+!*/
+
+# Allow only C/C++ source code and header files
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+
+# Allow the .gitignore file itself
+!.gitignore
